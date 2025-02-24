@@ -1,0 +1,1 @@
+# install-wsjtx2.7.0-ubuntu
